@@ -14,8 +14,6 @@ print('Olá' , nome , 'Seja Bem Vindo')
 
 #endregion
 
-
-
 #region Desafio 02
 
 '''
